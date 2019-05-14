@@ -28,6 +28,7 @@ Austria
 Ayr
 Baal
 Basque
+Basques
 Bernoulli
 Bible
 Blitzkrieg
@@ -345,9 +346,11 @@ accepter
 acceptor
 accepts
 access
+accessary
 accessible
 accession
 accessories
+accessory
 accidence
 accident
 accidental
@@ -667,6 +670,7 @@ ancestors
 ancestry
 ancillary
 and
+androgenous
 androgynous
 androgyny
 angel
@@ -787,6 +791,7 @@ archived
 are
 area
 areas
+aren't
 arguably
 argument
 arguments
@@ -955,6 +960,7 @@ averaged
 aviation
 awarded
 away
+awe
 awed
 aweigh
 awful
@@ -1047,13 +1053,17 @@ barbarians
 barber
 bard
 bare
+barer
+baring
 bark
 baron
+baroness
 barque
 barre
 barred
 barrel
 barren
+barrenness
 barrier
 barriers
 bars
@@ -1069,6 +1079,7 @@ basil
 basis
 bask
 basked
+basks
 basque
 bass
 basses
@@ -1084,6 +1095,8 @@ bated
 bathe
 bathed
 bating
+batsman
+batsmen
 batt
 battalion
 battery
@@ -1103,6 +1116,8 @@ beam
 bean
 bear
 beard
+bearer
+bearing
 beat
 beau
 beaut
@@ -1213,6 +1228,7 @@ bite
 bitt
 bitten
 bitter
+bittern
 bizarre
 blade
 blair
@@ -1354,12 +1370,14 @@ bronze
 brooch
 brood
 brook
+broom
 brother
 brown
 brows
 browse
 bruise
 bruit
+brume
 brunet
 brunette
 brut
@@ -1482,9 +1500,11 @@ canine
 canister
 canisters
 cannon
+cannonry
 cannot
 canon
 canonical
+canonry
 canopy
 cant
 canter
@@ -1579,9 +1599,13 @@ cause
 caused
 causes
 causing
+cavalryman
+cavalrymen
+caw
 cawed
 caws
 cay
+cays
 cedar
 cede
 ceder
@@ -1813,6 +1837,7 @@ close
 closet
 clothes
 cloud
+cloze
 club
 clubs
 clue
@@ -1821,7 +1846,9 @@ coal
 coaled
 coalesced
 coalition
+coaming
 coarse
+coarser
 coast
 coasts
 coat
@@ -1840,6 +1867,8 @@ coffee
 coffer
 cognizant
 coherent
+coif
+coign
 coin
 coincide
 coincidentally
@@ -1890,6 +1919,7 @@ combination
 combinations
 combine
 combined
+combing
 combining
 combustible
 combustion
@@ -2333,6 +2363,7 @@ courage
 courier
 couronne
 course
+courser
 courses
 court
 courtesy
@@ -2366,6 +2397,8 @@ crane
 crank
 cranky
 crape
+crappie
+crappy
 crater
 crawl
 creak
@@ -2387,6 +2420,7 @@ creek
 crepe
 crepuscule
 crescent
+crew
 crewed
 crewel
 crews
@@ -2441,6 +2475,9 @@ crystallisation
 crystals
 cubit
 cue
+cued
+cueing
+cuer
 cues
 cuisine
 culler
@@ -2454,6 +2491,7 @@ cumulative
 cunning
 cup
 cups
+curb
 curd
 cure
 cures
@@ -2464,6 +2502,7 @@ currant
 current
 currently
 curriculum
+currier
 curser
 cursor
 curtain
@@ -2479,6 +2518,7 @@ cycle
 cygnet
 cylinder
 cymbal
+cymbol
 cynical
 cypress
 cyst
@@ -2574,6 +2614,7 @@ degrade
 deign
 deities
 deity
+dele
 delegate
 delegates
 delegation
@@ -2631,6 +2672,7 @@ depict
 deport
 deposit
 deposits
+depravation
 depression
 deprevation
 deprivation
@@ -2726,6 +2768,7 @@ did
 didn't
 die
 died
+dies
 diet
 differ
 difference
@@ -2888,6 +2931,7 @@ documents
 doe
 does
 doesn't
+doh
 doing
 dole
 dollar
@@ -2980,6 +3024,7 @@ dye
 dyed
 dyeing
 dyer
+dyes
 dying
 dyke
 dynamic
@@ -3001,6 +3046,7 @@ east-
 eat
 eaten
 eave
+eaves
 echo
 eclectic
 eclipse
@@ -3027,6 +3073,7 @@ education
 educational
 eels
 eerie
+eery
 effect
 effective
 effectively
@@ -3186,6 +3233,7 @@ entities
 entitled
 entity
 entrance
+entrants
 entrepreneur
 entrepreneurs
 entrusted
@@ -3195,6 +3243,8 @@ environmental
 environmentalist
 environmentally
 environments
+envoi
+envoy
 envy
 epic
 episode
@@ -3274,6 +3324,7 @@ events
 eventually
 every
 everything
+eves
 evidence
 evident
 evidential
@@ -3450,14 +3501,21 @@ factor
 factors
 facts
 faery
+fah
 faille
 fain
 faint
+fainted
+fainting
+faints
 fair
 fairing
+fairs
 fairy
 faker
+fakers
 fakir
+fakirs
 fall
 fallen
 fallow
@@ -3477,10 +3535,12 @@ far
 fare
 fared
 faren
+fares
 faring
 farming
 faro
 farrow
+farther
 fascinated
 fascinating
 fasciner
@@ -3492,11 +3552,13 @@ fatalist
 fate
 fated
 fatelist
+fates
 father
 fathom
 fatigue
 fatiguing
 faun
+faux
 favorable
 favorite
 favour
@@ -3527,6 +3589,9 @@ feet
 feeze
 feign
 feint
+feinted
+feinting
+feints
 felicity
 fell
 felled
@@ -3553,6 +3618,7 @@ fetch
 fetched
 fete
 feted
+fetes
 fever
 few
 fey
@@ -3577,8 +3643,10 @@ filament
 file
 files
 filet
+filets
 fill
 fillet
+fillets
 fills
 film
 films
@@ -3621,19 +3689,25 @@ flair
 flak
 flammable
 flare
+flaw
 flawless
+flay
 flea
+fleas
 fleche
 fleck
 flecks
 fled
 flee
+flees
 flesh
 flew
 flex
 flexibility
 flexible
+fley
 flier
+fliers
 flight
 flirts
 float
@@ -3645,15 +3719,20 @@ flocks
 floe
 floes
 flood
+floor
 flora
 florescence
 florescents
 flour
+floured
 flourish
 flourished
 flourishing
+flours
 flow
 flower
+flowered
+flowers
 flown
 flows
 flu
@@ -3662,14 +3741,17 @@ flue
 fluid
 fluorescence
 fluorescent
+fluorescents
 fluorine
 fly
 flyer
+flyers
 foal
 foaled
 foam
 focus
 fodder
+foe
 fold
 folk
 follow
@@ -3827,6 +3909,7 @@ futhark
 futhorc
 future
 fuze
+fête
 g
 gaff
 gaffe
@@ -3839,10 +3922,12 @@ galactic
 galaxies
 galaxy
 gale
+galipot
 gall
 galleries
 gallery
 galley
+gallipot
 gallon
 gallop
 gally
@@ -3855,6 +3940,7 @@ games
 gamin
 gammon
 gangster
+gaol
 garage
 garden
 gardener
@@ -3917,6 +4003,7 @@ giraffe
 gird
 girded
 girdle
+giro
 girt
 give
 given
@@ -3934,6 +4021,7 @@ global
 glorious
 glory
 gnar
+gnatty
 gnaw
 gnawed
 gnawing
@@ -4009,6 +4097,7 @@ greet
 greeted
 grey
 greyer
+greys
 griddles
 grief
 grievance
@@ -4060,6 +4149,7 @@ guttural
 guyed
 guys
 gym
+gyro
 gyve
 h
 ha ha
@@ -4123,6 +4213,7 @@ have
 haven
 haves
 having
+haw
 hawk
 hay
 hay's
@@ -4226,7 +4317,9 @@ hinder
 hindered
 hindrance
 hip
+hippie
 hippopotamus
+hippy
 hire
 hissed
 hist
@@ -4373,6 +4466,8 @@ ignorance
 ignorant
 ignore
 ignored
+ileum
+ilium
 illegal
 illegally
 illegitimacy
@@ -4775,6 +4870,7 @@ jabb
 jackknife
 jacques
 jaguar
+jail
 jam
 jamb
 jaundice
@@ -4831,6 +4927,7 @@ ken
 kenned
 kent
 keratin
+kerb
 kernel
 kettle
 key
@@ -4887,11 +4984,13 @@ kor
 kraal
 kraft
 krater
+krewe
 krona
 krone
 kurd
 kyack
 kyte
+kyu
 l
 laager
 lab.
@@ -4913,6 +5012,7 @@ lake
 lakh
 lam
 lama
+lamas
 lamb
 lame
 lament
@@ -4931,6 +5031,7 @@ large
 largest
 lark
 larry
+larva
 larvae
 lase
 laser
@@ -4946,9 +5047,12 @@ launce
 launch
 launched
 launches
+lava
 lavatory
+law
 lax
 lay
+layed
 lays
 lazar
 laze
@@ -5068,6 +5172,7 @@ lief
 lien
 liens
 lier
+lies
 lieu
 lieutenant
 lieve
@@ -5114,6 +5219,7 @@ list
 listed
 listeners
 lists
+lite
 literal
 literally
 literary
@@ -5201,6 +5307,7 @@ lutes
 lux
 luxe
 lye
+lyes
 lying
 lynx
 lyre
@@ -5359,9 +5466,11 @@ matte
 mattress
 maturity
 maul
+maw
 maximum
 may be
 maybe
+mayor
 maze
 mccarthyist
 me
@@ -5438,6 +5547,7 @@ meted
 meteor
 meteorologist
 meteorology
+meter
 method
 methods
 meting
@@ -5581,6 +5691,7 @@ mood
 moody
 mooed
 moon
+moor
 moose
 moral
 morality
@@ -5651,6 +5762,7 @@ murderous
 murmur
 murmured
 murmurs
+murre
 muscat
 muscle
 muscles
@@ -5676,6 +5788,7 @@ mutual
 mutually
 mutuel
 my
+mynah
 myriad
 myrrh
 myself
@@ -5710,6 +5823,7 @@ nationalist
 nationally
 nations
 native
+natty
 natural
 naturally
 naval
@@ -5805,6 +5919,7 @@ nonexistents
 nonoperational
 nonsense
 noose
+nor
 normal
 normally
 north
@@ -5847,6 +5962,7 @@ nurturing
 nut
 nutrient
 nutrients
+nye
 o
 o'er
 oak
@@ -5997,6 +6113,7 @@ oral
 orally
 oratorio
 orbit
+orc
 orchestra
 ordeal
 order
@@ -6033,6 +6150,8 @@ ouzel
 oven
 over
 overate
+overbilled
+overbuild
 overdo
 overdue
 overrate
@@ -6064,6 +6183,7 @@ packed
 packet
 packs
 pact
+paeon
 page
 pageant
 pages
@@ -6146,6 +6266,8 @@ particularly
 parts
 party
 pas
+pascal
+paschal
 pass
 passable
 passage
@@ -6177,11 +6299,13 @@ patio
 patios
 patrimony
 patten
+pattern
 pause
 paused
 pavilion
 pawed
 pawl
+pawn
 pawned
 paws
 pax
@@ -6192,6 +6316,7 @@ pea
 peace
 peak
 peaked
+peaking
 peal
 pealed
 pealing
@@ -6217,6 +6342,7 @@ pedestrian
 pee
 peek
 peeked
+peeking
 peel
 peeled
 peeling
@@ -6254,6 +6380,7 @@ pensile
 pension
 pensions
 penumbra
+peon
 people
 peoples
 pepper
@@ -6489,6 +6616,7 @@ pole
 poled
 poler
 police
+poling
 politic
 political
 politically
@@ -6501,6 +6629,7 @@ polled
 poller
 pollinator
 pollinators
+polling
 pollute
 polluted
 pollutes
@@ -6532,6 +6661,7 @@ pore
 pored
 pores
 poring
+porn
 port
 portal
 portion
@@ -6920,6 +7050,7 @@ pyxie
 q
 q's
 quad
+quaff
 quai
 qualified
 qualify
@@ -6936,6 +7067,7 @@ quarters
 quarts
 quartz
 quay
+quays
 qubit
 quean
 queen
@@ -6945,6 +7077,9 @@ quelled
 questionable
 questionnaire
 queue
+queued
+queueing
+queuer
 queues
 quick
 quickly
@@ -6989,10 +7124,12 @@ raid
 rail
 rain
 rained
+raining
 rains
 raise
 raised
 raiser
+raising
 rake
 raki
 rale
@@ -7017,6 +7154,7 @@ rare
 rarefied
 rase
 rash
+rasing
 rat
 rathe
 ratify
@@ -7032,6 +7170,7 @@ rays
 raze
 razed
 razer
+razing
 razor
 re
 reach
@@ -7071,6 +7210,8 @@ recede
 receded
 receding
 receipt
+receipted
+receipts
 receive
 received
 receiver
@@ -7195,6 +7336,7 @@ reincarnation
 reined
 reinforce
 reinforced
+reining
 reins
 relaid
 relation
@@ -7296,9 +7438,12 @@ requirement
 requirements
 requires
 requisites
+res
 rescinded
 research
 reseat
+reseated
+reseats
 reseed
 reseeded
 reseeding
@@ -7440,6 +7585,7 @@ riff
 rigger
 riggers
 right
+righting
 rights
 rigid
 rigor
@@ -7463,9 +7609,11 @@ rite
 rites
 ritual
 rival
+rive
 road
 roam
 roamed
+roar
 rob
 robbed
 robbery
@@ -7503,7 +7651,9 @@ rose
 rosery
 roses
 rot
+rota
 rote
+rotor
 rotted
 rough
 roughly
@@ -7572,8 +7722,10 @@ sagacious
 said
 sail
 sailed
+sailer
 sailor
 sails
+sain
 saint
 sake
 salad
@@ -7613,6 +7765,7 @@ sassy
 sat
 satellite
 satellites
+satire
 satiric
 satirical
 satirically
@@ -7623,6 +7776,7 @@ satisfied
 satisfy
 satisfying
 satyr
+sauce
 sault
 save
 saved
@@ -7631,6 +7785,7 @@ saving
 savior
 saviour
 savor
+savour
 saw
 sawed
 sax
@@ -7665,6 +7820,7 @@ scientist
 scientists
 scissors
 sclera
+scold
 screenwriter
 script
 scripture
@@ -7705,6 +7861,7 @@ sectors
 sects
 secure
 security
+sed
 see
 seed
 seeder
@@ -7876,6 +8033,7 @@ shit
 shitted
 shivaree
 shivary
+shivery
 shoal
 shock
 shoe
@@ -7920,6 +8078,7 @@ sick
 sics
 side
 sidereal
+sidhe
 sie
 siege
 sieve
@@ -7988,6 +8147,7 @@ sixty
 size
 sized
 sizing
+skald
 skating
 skeleton
 skin
@@ -8052,6 +8212,7 @@ so
 soak
 soar
 soared
+soccer
 sociable
 social
 socialism
@@ -8060,9 +8221,11 @@ socially
 societies
 society
 sociology
+socker
 socks
 sod
 sodden
+sodder
 sofa
 soft
 software
@@ -8070,6 +8233,7 @@ soil
 soke
 sol
 sold
+solder
 soldier
 soldiers
 sole
@@ -8102,6 +8266,7 @@ sorcerer
 sore
 sorrow
 sorry
+sort
 sot
 sou
 sough
@@ -8127,6 +8292,7 @@ sowed
 sower
 sown
 sox
+spa
 space
 spaces
 spade
@@ -8135,6 +8301,7 @@ spald
 spalded
 span
 spanned
+spar
 spare
 spared
 sparrow
@@ -8169,6 +8336,8 @@ spectator
 spectrum
 speech
 speeches
+speel
+speer
 spend
 spent
 spermatozoon
@@ -8176,6 +8345,8 @@ spew
 spewed
 sphere
 spider
+spiel
+spier
 spin
 spindle
 spire
@@ -8269,11 +8440,14 @@ steak
 steaks
 steal
 stealing
+steals
 steel
 steeling
+steels
 steer
 steered
 stele
+steles
 stem
 stench
 step
@@ -8300,6 +8474,7 @@ stitch
 stock
 stole
 stolen
+stollen
 stomach
 stomp
 stomped
@@ -8566,6 +8741,7 @@ symptom
 symptoms
 synagogue
 sync
+synch
 synching
 synchronization
 syne
@@ -8601,8 +8777,11 @@ tale
 talent
 talents
 tales
+talk
 talked
+talkie
 talking
+talky
 tallow
 tambour
 tame
@@ -8615,6 +8794,8 @@ tar
 tare
 targeted
 targeting
+taro
+tarot
 tart
 tartar
 tarter
@@ -8627,6 +8808,7 @@ tax
 taxi
 taxonomic
 taxonomy
+te
 tea
 teach
 teal
@@ -8635,6 +8817,7 @@ teamed
 teaming
 teams
 tear
+teared
 teas
 tease
 teat
@@ -8687,6 +8870,8 @@ tensor
 tentacle
 tentacles
 tents
+tenuis
+tenuous
 terce
 terminal
 terminate
@@ -8813,6 +8998,7 @@ tiding
 tie
 tied
 tier
+tiered
 tight
 tighten
 tighter
@@ -8891,6 +9077,8 @@ torn
 tornado
 toroidal
 torpedoes
+torque
+torr
 tort
 torte
 torture
@@ -9017,7 +9205,9 @@ trustee
 trustworthiness
 trusty
 try
+tuba
 tube
+tuber
 tuck
 tucked
 tucks
@@ -9264,6 +9454,7 @@ via
 vial
 vice
 vice prefix
+vices
 vicinity
 victim
 victims
@@ -9302,6 +9493,7 @@ virus
 viscous
 viscus
 vise
+vises
 visible
 visibly
 vision
@@ -9345,13 +9537,16 @@ wade
 waded
 waggish
 wail
+wailed
 wailer
+wails
 wain
 waist
 waisted
 waists
 wait
 waited
+waiting
 waits
 waive
 waived
@@ -9362,6 +9557,7 @@ wale
 waler
 walk
 walked
+wall
 wander
 wandered
 wane
@@ -9400,6 +9596,7 @@ watch
 watched
 water
 watt
+waul
 wave
 waved
 waver
@@ -9430,6 +9627,7 @@ weasel
 weather
 weave
 weaved
+weaver
 wed
 wedded
 wedge
@@ -9438,12 +9636,14 @@ weed
 week
 weekly
 ween
+weever
 weevil
 weigh
 weighed
 weighs
 weight
 weighted
+weighting
 weights
 weiner
 weir
@@ -9462,11 +9662,14 @@ wether
 whack
 whacks
 whale
+whaled
 whaler
+whales
 wharve
 wharved
 what
 wheal
+wheald
 wheat
 whee
 wheel
@@ -9494,9 +9697,11 @@ whines
 whining
 whinings
 whinny
+whiny
 whir
 whirl
 whirled
+whirr
 whirred
 whish
 whisky
@@ -9519,6 +9724,7 @@ whorled
 whorven
 whose
 why
+why'd
 whys
 wich
 wicker
@@ -9547,6 +9753,7 @@ wink
 winked
 wins
 winter
+winy
 winze
 wise
 wish
@@ -9656,6 +9863,7 @@ yak
 yar
 yard
 yarn
+yaw
 yawl
 yawn
 yawned
