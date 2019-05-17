@@ -1313,6 +1313,7 @@ bourne
 bout
 bow
 bowed
+bower
 bowl
 bowled
 box
